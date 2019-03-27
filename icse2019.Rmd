@@ -1,0 +1,23 @@
+---
+title: "ICSE 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+1+1
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+To view the HTML version, click on the *Knit* dropdown.
+
+You can also add plain old Markdown chunks to show things like this typical `.gitignore` file, which excludes the history file and user settings used by RStudio:
+
+```
+.Rhistory
+.Rproj.user
+```
